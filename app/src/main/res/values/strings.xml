@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hopin Challenge App</string>
+
+    <string name="forecast_title">Trams %1$s from %2$s</string>
+    <plurals name="in_minutes">
+        <item quantity="one">in %1$d minute</item>
+        <item quantity="other">in %1$d minutes</item>
+    </plurals>
+    <string name="due">Due</string>
+    <string name="menu_refresh">Refresh</string>
+</resources>
